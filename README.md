@@ -9,5 +9,4 @@ git status
 git diff
 git data
 
-
-git Auto merge Features
+Git Auto merge Features
