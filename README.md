@@ -7,4 +7,7 @@ This is Git Project for comparing data before performing the merge.
 Lets find out how we can do that using
 git status
 git diff
-git data 
+git data
+
+
+git Auto merge Features
